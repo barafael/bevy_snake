@@ -5,5 +5,5 @@ authors = ["Marcus Buffett <marcusbuffett@me.com>"]
 edition = "2021"
 
 [dependencies]
-bevy = "0.7.0"
-rand = "0.7.3"
+bevy = "0.14.0"
+rand = "0.8.5"
